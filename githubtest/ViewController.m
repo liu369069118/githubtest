@@ -19,8 +19,13 @@
     // Do any additional setup after loading the view, typically from a nib.
     //2 commit
     //3 commit
+//<<<<<<< HEAD
+    //10 commit
+    //11 commit
+//=======
     //4 commit
     //5 commit
+//>>>>>>> master
 }
 
 
